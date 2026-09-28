@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="Robert Pupo — Build beyond the horizon" />
+
+<br />
+
+<img src="assets/portrait-robert.jpg" width="180" alt="Retrato ilustrado de Robert Pupo" />
+
 # Robert Pupo
 
 ### Desarrollador Full Stack · Creador de Productos · Ingeniero de IA
@@ -22,6 +28,12 @@ Soy desarrollador full stack y creador de productos. Trabajo desde la definició
 
 **Tecnologías principales:** TypeScript · React · Next.js · Node.js · PostgreSQL · Prisma · Supabase · Tailwind CSS · API REST  
 **También trabajo con:** NestJS · Docker · AWS/GCP · automatización · LLM y agentes de IA
+
+## Mi universo de productos
+
+<div align="center">
+<img src="assets/product-universe.svg" width="100%" alt="Mapa visual de seis productos de educación, fitness, investigación y automatización" />
+</div>
 
 ## Productos destacados
 
