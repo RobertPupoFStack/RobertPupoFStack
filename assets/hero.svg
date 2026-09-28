@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Robert Pupo — Build beyond the horizon</title><desc id="desc">Original science fiction inspired banner with a star field, orbit lines, and golden typography.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070d1b"/><stop offset=".55" stop-color="#111a32"/><stop offset="1" stop-color="#0b1020"/></linearGradient><linearGradient id="gold"><stop stop-color="#ffe8a0"/><stop offset=".5" stop-color="#e8bd57"/><stop offset="1" stop-color="#a87a27"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect width="1200" height="310" fill="url(#bg)"/>
+<g fill="#dbeafe" opacity=".7"><circle cx="37" cy="38" r="1.5"/><circle cx="112" cy="116" r="1"/><circle cx="175" cy="52" r="2"/><circle cx="261" cy="230" r="1"/><circle cx="321" cy="88" r="1.4"/><circle cx="377" cy="36" r="1"/><circle cx="439" cy="212" r="1"/><circle cx="503" cy="65" r="1"/><circle cx="570" cy="20" r="1.4"/><circle cx="687" cy="110" r="1"/><circle cx="773" cy="32" r="1.8"/><circle cx="834" cy="245" r="1"/><circle cx="925" cy="70" r="1.2"/><circle cx="1000" cy="28" r="1"/><circle cx="1074" cy="185" r="1.5"/><circle cx="1160" cy="65" r="2"/><circle cx="1121" cy="270" r="1"/><circle cx="57" cy="264" r="1.2"/></g>
+<circle cx="1060" cy="161" r="102" fill="#d6a850" opacity=".12" filter="url(#glow)"/><circle cx="1060" cy="161" r="83" fill="none" stroke="#d8b569" stroke-width="1.5" opacity=".45"/><circle cx="1060" cy="161" r="124" fill="none" stroke="#6b91b5" stroke-width="1" opacity=".25"/><path d="M912 202 Q1050 119 1193 201" fill="none" stroke="#e6bb62" opacity=".5"/>
+<path d="M0 269 H1200 M30 37 H115 M30 42 H94" stroke="#d4a94c" opacity=".65"/>
+<text x="63" y="92" fill="#8fb8dc" font-family="Arial,sans-serif" font-size="16" letter-spacing="7">DEVELOPER • PRODUCT BUILDER</text>
+<text x="61" y="175" fill="url(#gold)" font-family="Arial,sans-serif" font-size="68" font-weight="bold" letter-spacing="7">ROBERT PUPO</text>
+<text x="64" y="220" fill="#e3e8f2" font-family="Arial,sans-serif" font-size="21" letter-spacing="3">BUILD BEYOND THE HORIZON</text>
+<text x="64" y="289" fill="#82a6c3" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">SAAS  /  EDUCATION  /  FITNESS  /  APPLIED AI</text>
+</svg>
