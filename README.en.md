@@ -32,21 +32,27 @@ I'm a full stack developer and product builder. I work from problem discovery to
 ## My product universe
 
 <div align="center">
-<img src="assets/product-universe.svg" width="100%" alt="Visual map of six products in education, fitness, research, and automation" />
+<img src="assets/product-universe.svg" width="100%" alt="Four featured products: DO-CV, FaceSnap, Book Forge, and MyRepo" />
 </div>
+
+A selection of products spanning education, careers, digital experiences, and automation.
 
 ## Featured products
 
-| Product | What it does | Explore |
+| Product | What it does | Access |
 | :--- | :--- | :--- |
+| **DO-CV** | Résumé and career platform with job analysis and optimization features. | Portfolio · private code |
+| **FaceSnap** | Event photography experience with photo discovery and flows for photographers and guests. | Portfolio · private code |
+| **Book Forge** | AI-assisted creation, editing, organization, and reading of digital books. | Portfolio · private code |
+| **MyRepo** | Programming learning space with tasks, editor, and progress tracking. | Portfolio · private code |
 | **ProSystem** | Education management across students, classes, attendance, staff, and reporting. | [Product](https://prosystemapp.online/) |
-| **Meu Treino** | Connects students, trainers, and fitness facilities through training plans, exercises, health intake, follow-up, and community. | [Product](https://www.mtreino.online/) |
-| **Smart Store** | Organizes workspaces, projects, and files for content and automation workflows. | [Product](https://smartstore.base44.app/) |
-| **Data Flow** | Structures research, evidence, and decisions for product work and experiments. | [Product](https://dataflow-decision-hub.base44.app/) |
+| **Meu Treino** | Connects students, trainers, and fitness facilities through workouts, follow-up, and community. | [Product](https://www.mtreino.online/) |
+| **InfoSuite** | Digital literacy with learning games, lesson plans, and progress tracking. | In development |
+| **Smart Store** | Organizes workspaces, projects, and files for content operations. | Private project |
+| **Data Flow** | Structures research, evidence, and decisions for experiments. | Private project |
 | **Automation Engine** | Orchestrates workflows across the Creator B.OS ecosystem. | In development |
-| **InfoSuite** | Digital literacy platform with learning games, lesson plans, and progress tracking. | In development |
 
-> Some products have private source code. Public links point to their product pages where available; access may require sign-in.
+> Projects marked private are presented as portfolio work without public source code access.
 
 ## More projects
 
@@ -65,8 +71,6 @@ I'm a full stack developer and product builder. I work from problem discovery to
 <details>
 <summary><strong>AI, productivity, and platforms</strong></summary>
 
-- **Book Forge:** AI-assisted book creation.
-- **Do CV / Do CV AI:** résumé and career workflow products.
 - **AI Creative Studio, Easy AI, Nexus AgentHub:** AI creation and agent experiments.
 - **EasyForms:** digital forms.
 - **LicitaAI:** AI application for procurement workflows.
@@ -78,7 +82,6 @@ I'm a full stack developer and product builder. I work from problem discovery to
 <summary><strong>Products and experiments</strong></summary>
 
 - **Conquer Quiz, Memory Master, Quiz IO:** quiz and learning experiences.
-- **FaceSnap:** visual experience project.
 - **Retain CRM, Radar de Leads Físico:** relationship and prospecting tools.
 - **Clube Local, Astrum Signa, Venda:** product experiments.
 - **ExtremeOdds:** [public repository](https://github.com/RobertPupoFStack/ExtremeOdds).
