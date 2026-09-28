@@ -32,21 +32,27 @@ Soy desarrollador full stack y creador de productos. Trabajo desde la definició
 ## Mi universo de productos
 
 <div align="center">
-<img src="assets/product-universe.svg" width="100%" alt="Mapa visual de seis productos de educación, fitness, investigación y automatización" />
+<img src="assets/product-universe.svg" width="100%" alt="Cuatro productos destacados: DO-CV, FaceSnap, Book Forge y MyRepo" />
 </div>
+
+Una selección de productos de educación, carrera, experiencias digitales y automatización.
 
 ## Productos destacados
 
 | Producto | Qué hace | Acceso |
 | :--- | :--- | :--- |
+| **DO-CV** | Plataforma de currículums y carrera con análisis y optimización para vacantes. | Portafolio · código privado |
+| **FaceSnap** | Experiencia fotográfica para eventos, con búsqueda de fotos y flujos para fotógrafos y asistentes. | Portafolio · código privado |
+| **Book Forge** | Creación, edición, organización y lectura de libros digitales con ayuda de IA. | Portafolio · código privado |
+| **MyRepo** | Entorno educativo de programación con tareas, editor y seguimiento del progreso. | Portafolio · código privado |
 | **ProSystem** | Gestión educativa de estudiantes, clases, asistencia, equipos e informes. | [Producto](https://prosystemapp.online/) |
-| **Meu Treino** | Conecta alumnos, entrenadores y centros deportivos mediante planes, ejercicios, anamnesis, seguimiento y comunidad. | [Producto](https://www.mtreino.online/) |
-| **Smart Store** | Organiza espacios, proyectos y archivos para procesos de contenido y automatización. | [Producto](https://smartstore.base44.app/) |
-| **Data Flow** | Estructura investigación, evidencias y decisiones para productos y experimentos. | [Producto](https://dataflow-decision-hub.base44.app/) |
+| **Meu Treino** | Conecta alumnos, entrenadores y centros deportivos mediante entrenamientos, seguimiento y comunidad. | [Producto](https://www.mtreino.online/) |
+| **InfoSuite** | Alfabetización digital con minijuegos, planes de clase y seguimiento del aprendizaje. | En desarrollo |
+| **Smart Store** | Organiza espacios, proyectos y archivos para operaciones de contenido. | Proyecto privado |
+| **Data Flow** | Estructura investigación, evidencias y decisiones para experimentos. | Proyecto privado |
 | **Automation Engine** | Orquesta procesos entre las aplicaciones del ecosistema Creator B.OS. | En desarrollo |
-| **InfoSuite** | Plataforma de alfabetización digital con minijuegos, planes de clase y seguimiento del aprendizaje. | En desarrollo |
 
-> El código de algunos productos es privado. Los enlaces públicos llevan a sus páginas cuando están disponibles; el acceso puede requerir iniciar sesión.
+> Los proyectos marcados como privados se presentan como portafolio, sin acceso público al código.
 
 ## Otros proyectos
 
@@ -65,8 +71,6 @@ Soy desarrollador full stack y creador de productos. Trabajo desde la definició
 <details>
 <summary><strong>IA, productividad y plataformas</strong></summary>
 
-- **Book Forge:** creación de libros asistida por IA.
-- **Do CV / Do CV AI:** productos para currículums y procesos de carrera.
 - **AI Creative Studio, Easy AI, Nexus AgentHub:** experimentos de creación y agentes de IA.
 - **EasyForms:** formularios digitales.
 - **LicitaAI:** proyecto de IA para procesos de licitación.
@@ -78,7 +82,6 @@ Soy desarrollador full stack y creador de productos. Trabajo desde la definició
 <summary><strong>Productos y experimentos</strong></summary>
 
 - **Conquer Quiz, Memory Master, Quiz IO:** experiencias de cuestionarios y aprendizaje.
-- **FaceSnap:** proyecto de experiencia visual.
 - **Retain CRM, Radar de Leads Físico:** herramientas de relación y prospección.
 - **Clube Local, Astrum Signa, Venda:** experimentos de producto.
 - **ExtremeOdds:** [repositorio público](https://github.com/RobertPupoFStack/ExtremeOdds).
