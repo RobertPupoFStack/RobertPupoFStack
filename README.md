@@ -32,21 +32,27 @@ Sou desenvolvedor full stack e criador de produtos. Trabalho da descoberta do pr
 ## Meu universo de produtos
 
 <div align="center">
-<img src="assets/product-universe.svg" width="100%" alt="Mapa visual dos seis produtos em educação, fitness, pesquisa e automação" />
+<img src="assets/product-universe.svg" width="100%" alt="Quatro produtos em destaque: DO-CV, FaceSnap, Book Forge e MyRepo" />
 </div>
+
+Uma seleção de produtos próprios, do ensino e da carreira às experiências digitais e à automação.
 
 ## Produtos em destaque
 
 | Produto | O que resolve | Acesso |
 | :--- | :--- | :--- |
-| **ProSystem** | Gestão educacional: estudantes, turmas, presença, equipes e relatórios em fluxos integrados. | [Conhecer produto](https://prosystemapp.online/) |
-| **Meu Treino** | Conecta alunos, professores e estabelecimentos; reúne planos, exercícios, anamnese, acompanhamento e comunidade. | [Conhecer produto](https://www.mtreino.online/) |
-| **Smart Store** | Organiza espaços, projetos e arquivos para operações de conteúdo e automação. | [Conhecer produto](https://smartstore.base44.app/) |
-| **Data Flow** | Estrutura pesquisa, evidências e decisões para orientar produtos e experimentos. | [Conhecer produto](https://dataflow-decision-hub.base44.app/) |
-| **Automation Engine** | Orquestra a execução de fluxos entre os aplicativos do ecossistema Creator B.OS. | Projeto em desenvolvimento |
-| **InfoSuite** | Plataforma de alfabetização digital com minijogos, planos de aula e acompanhamento de aprendizagem. | Projeto em desenvolvimento |
+| **DO-CV** | Plataforma de currículos e carreira, com recursos de análise e otimização para vagas. | Portfólio · código privado |
+| **FaceSnap** | Experiência de fotografia para eventos, com busca de fotos e fluxos para fotógrafos e participantes. | Portfólio · código privado |
+| **Book Forge** | Criação, edição, organização e leitura de livros digitais com apoio de IA. | Portfólio · código privado |
+| **MyRepo** | Ambiente educacional de programação com tarefas, editor e acompanhamento de progresso. | Portfólio · código privado |
+| **ProSystem** | Gestão educacional de estudantes, turmas, presença, equipes e relatórios. | [Conhecer produto](https://prosystemapp.online/) |
+| **Meu Treino** | Conecta alunos, professores e estabelecimentos em torno de treinos, acompanhamento e comunidade. | [Conhecer produto](https://www.mtreino.online/) |
+| **InfoSuite** | Alfabetização digital com minijogos, planos de aula e acompanhamento de aprendizagem. | Em desenvolvimento |
+| **Smart Store** | Organiza espaços, projetos e arquivos para operações de conteúdo. | Projeto privado |
+| **Data Flow** | Estrutura pesquisa, evidências e decisões para orientar experimentos. | Projeto privado |
+| **Automation Engine** | Orquestra fluxos entre os aplicativos do ecossistema Creator B.OS. | Em desenvolvimento |
 
-> Alguns produtos têm código privado. Os links acima levam às páginas públicas quando disponíveis; acesso e funcionalidades podem exigir autenticação.
+> Os projetos marcados como privados são apresentados como portfólio, sem acesso público ao código.
 
 ## Outros projetos
 
@@ -65,8 +71,6 @@ Sou desenvolvedor full stack e criador de produtos. Trabalho da descoberta do pr
 <details>
 <summary><strong>IA, produtividade e plataformas</strong></summary>
 
-- **Book Forge:** criação de livros com apoio de IA.
-- **Do CV / Do CV AI:** soluções para currículos e processos de carreira.
 - **AI Creative Studio, Easy AI e Nexus AgentHub:** explorações de criação, agentes e recursos de IA.
 - **EasyForms:** formulários digitais.
 - **LicitaAI:** projeto de aplicação de IA a processos de licitação.
@@ -78,7 +82,6 @@ Sou desenvolvedor full stack e criador de produtos. Trabalho da descoberta do pr
 <summary><strong>Produtos e experimentos</strong></summary>
 
 - **Conquer Quiz, Memory Master e Quiz IO:** experiências de quiz e aprendizagem.
-- **FaceSnap:** projeto de experiência visual.
 - **Retain CRM e Radar de Leads Físico:** ferramentas de relacionamento e prospecção.
 - **Clube Local, Astrum Signa e Venda:** experimentos de produto.
 - **ExtremeOdds:** [repositório público](https://github.com/RobertPupoFStack/ExtremeOdds).
